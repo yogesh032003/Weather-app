@@ -1,7 +1,10 @@
 # Weather‑app
 
 A simple weather application built with HTML, CSS and JavaScript that allows users to check the current weather conditions of a city by name.  
-Live demo: [https://weather-app-cyan-psi.vercel.app](https://weather-app-web-ten.vercel.app/)/ ([github.com](https://github.com/yogesh032003/Weather-app))
+Live demo: [https://weather-app-cyan-psi.vercel.app](https://weather-app-web-ten.vercel.app/)
+
+![Weather App Screenshot](Screenshot.png)
+
 
 ---
 
